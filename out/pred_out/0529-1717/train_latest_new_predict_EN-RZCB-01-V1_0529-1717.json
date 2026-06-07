@@ -1,0 +1,2559 @@
+[
+  {
+    "record_id": "MED_QC_ADM_0001",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“血尿”应在“(左侧)取出输尿管D-J管”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0002",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0003",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“妊娠状态”应在“妊娠期发生的糖尿病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0004",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0005",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0006",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0007",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0008",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“稳定型心绞痛”应在“冠状动脉粥样硬化性心脏病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0009",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0010",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺炎”应在最前；“胸闷”应紧随其后。其他诊断如“冠状动脉粥样硬化性心脏病”等非主要诊断不应排在主要诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0011",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“（左眼）甲状腺功能障碍性突眼”应在“甲状腺功能亢进症”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0012",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0013",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0014",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“慢性肾功能不全”应在“高血压性肾病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0015",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0016",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0017",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0018",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0019",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“骶骨恶性肿瘤”应在其他继发性肿瘤之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0020",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(左)耳廓肿物”应在高血压、糖尿病之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0021",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0022",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“乳腺恶性肿瘤史”应在“手术后恶性肿瘤化学治疗”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0023",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0024",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肝恶性细胞瘤”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0025",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“不稳定型心绞痛”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0026",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0027",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0028",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(左侧)输尿管梗阻”应在“更换输尿管支架”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0029",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0030",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0031",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺部阴影”应在“乳腺恶性肿瘤史”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0032",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0033",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0034",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0035",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0036",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“急性ST段抬高型心肌梗死”应在“冠状动脉粥样硬化性心脏病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0037",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0038",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0039",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“IgA肾病”应在“慢性肾脏病”之前；“泌尿道感染”应为主要诊断，应在肠炎、肝功能异常之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0040",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0041",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0042",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“高血压*级”应在“*型糖尿病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0043",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“左肺恶性肿瘤”未出现在初步诊断中，初步诊断为空。  \n输出：初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0044",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0045",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“子宫内膜增厚”应在“子宫平滑肌瘤”之前。初步诊断中排序不符合要求。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0046",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0047",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0048",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胎儿畸形”应在首位；当前“妊娠状态(G+待产)”位于主要诊断之前，不符合排序要求。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0049",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“妊娠状态”应在其他相关诊断之前。初步诊断中“妊娠期发生的糖尿病”“妊娠期短暂性高血压”等应排在“妊娠状态”之后。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0050",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0051",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肝占位性病变”排序正确，但“腹水唐浩桓”应为“腹水王维涛”前。初步诊断中“腹水唐浩桓”表述不规范。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0052",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(右侧)甲状腺结节(甲状腺癌?cT”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0053",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0054",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(右)乳房肿块”应在“高血压”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0055",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0056",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0057",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0058",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0059",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0060",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“不稳定型心绞痛”应在“冠状动脉粥样硬化性心脏病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0061",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0062",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0063",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0064",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0065",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0066",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0067",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺占位性病变(左肺下叶)”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0068",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0069",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0070",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胆囊结石伴急性胆囊炎”应在最前；“陈旧性脑梗死,高血压”应位于主要诊断之后。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0071",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“多发性结肠息肉”应位于其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0072",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胎膜早破”应在“妊娠状态”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0073",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(右眼)筛窦肿物”应在“(右眼)眼球突出”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0074",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0075",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0076",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0077",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0078",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0079",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0080",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“异常子宫出血”应在“子宫内膜息肉”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0081",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胆囊结石伴胆囊炎”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0082",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0083",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0084",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肩周炎(?)”、“腰椎间盘突出(?)”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0085",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0086",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“发热”应在“感染性发热(?)”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0087",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0088",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0089",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0090",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0091",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0092",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0093",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0094",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0095",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0096",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0097",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0098",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0099",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0100",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0101",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胃体恶性肿瘤”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0102",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0103",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0104",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0105",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺炎”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0106",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胰腺囊肿”应在“后天性胆囊缺失”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0107",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0108",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0109",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胆囊炎”应在“肝损害,高血压”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0110",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0111",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0112",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0113",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0114",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0115",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0116",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0117",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0118",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0119",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0120",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0121",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初始诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0122",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0123",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0124",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0125",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“纵隔阴影(中纵隔占位)”应在“高血压”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0126",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0127",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0128",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0129",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0130",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0131",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0132",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“右眼并发性白内障”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0133",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0134",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“女性原发性不育”应在初步诊断中，且应排在其他诊断之前。当前初步诊断排序不符合要求。\n\n不合格理由：主要诊断“女性原发性不育”应在“子宫内膜增厚,子宫腺肌瘤,1月”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0135",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺炎”应在“高血压*级”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0136",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0137",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0138",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0139",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0140",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0141",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0142",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0143",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0144",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0145",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0146",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0147",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0148",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“子宫平滑肌瘤”应在初步诊断中优先，但被其他非主要诊断前置。  \n不合格理由：主要诊断“子宫平滑肌瘤”应该在初步诊断中排在前面。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0149",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“贫血、血小板减少”应在“高血压、睡眠障碍”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0150",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0151",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“妊娠状态”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0152",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0153",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0154",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0155",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“高血压性心脏病”应在“高血压*级”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0156",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0157",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺炎”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0158",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“不稳定型心绞痛”应在“胸痛”之后。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0159",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“不完全性肠梗阻”应在最前；“慢性肾功能不全”应放在主要诊断之后。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0160",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0161",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0162",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“直肠恶性肿瘤”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0163",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0164",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0165",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0166",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“高血压*级”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0167",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0168",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“胆囊结石伴急性胆囊炎”应在初步诊断中优先，但未明确列出。  \n“胆总管结石伴胆管炎”应位于“胆囊结石伴胆囊炎”之前。  \n初步诊断合格，入院诊断排序不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0169",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0170",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0171",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0172",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断应为“炎性脊椎病”，应在“慢性鼻炎”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0173",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0174",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0175",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“坠积性肺炎”应在首位。当前初步诊断与入院诊断中，主要诊断未排在最前。  \n不合格理由：“坠积性肺炎”应为主要诊断并排在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0176",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0177",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“子宫颈肿瘤”应在“子宫平滑肌瘤”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0178",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0179",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0180",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0181",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0182",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“腹痛”应在“中医诊断腹痛病肝火犯胃证西医诊断：”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0183",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0184",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0185",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“妊娠状态”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0186",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(左侧)膝关节病”应在“高血压1级”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0187",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0188",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺炎,嗜酸细胞性肺炎”应在“*型糖尿病,1月”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0189",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0190",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0191",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0192",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“（右侧）肾结石”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0193",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0194",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0195",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺炎”应在“肝功能不全”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0196",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0197",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“妊娠合并上呼吸道感染”应在“妊娠状态”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0198",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0199",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“急性冠状动脉供血不足”应在“冠状动脉粥样硬化性心脏病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0200",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“妊娠状态”应在其他相关诊断之前，但“前置胎盘、肩先露、妊娠合并血小板减少、妊娠期体重增加过度”等应紧随其后。初步诊断中这些非主要诊断未按规范排序。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0201",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0202",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“感染性发热”应在其他实验室异常结果之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0203",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0204",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0205",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“急性胰腺炎”应在“胰腺占位性病变”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0206",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0207",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺部阴影”应在“高血压,糖尿病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0208",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0209",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“腹痛”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0210",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0211",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0212",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0213",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0214",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0215",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0216",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0217",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“食管恶性肿瘤”应在“食管梗阻”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0218",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0219",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“妊娠状态(G1P*孕,+*天LOA待产),胎膜早破”应在“妊娠合并右束支传导阻滞(不完全性右束支传导阻滞)”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0220",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0221",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“女性原发性不育”应在“异常子宫出血”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0222",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0223",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0224",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0225",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0226",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0227",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0228",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0229",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“（双侧）肾上腺肿瘤”应在“高血压*级”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0230",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0231",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0232",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“梗阻性肾病”应在“慢性肾脏病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0233",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(左侧)输尿管结石伴有积水和感染”应在“（左侧）肾积水”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0234",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0235",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0236",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0237",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0238",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0239",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0240",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0241",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“急性冠脉综合征”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0242",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0243",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肺炎”应在“肺术后”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0244",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0245",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0246",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0247",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“（右）乳房下外象限恶性肿瘤(pT*N1M*)”应在“手术后恶性肿瘤化学治疗”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0248",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“头晕”应在“腹痛”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0249",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“眩晕”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0250",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0251",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0252",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0253",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0254",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“人工动静脉瘘狭窄”应在首位；“慢性肾脏病5期”等并发症应在其之后。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0255",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0256",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0257",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0258",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0259",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0260",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0261",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0262",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0263",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0264",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0265",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0266",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0267",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0268",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0269",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0270",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(右)乳房上外象限恶性肿瘤(cT”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0271",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“（右）乳房上外象限恶性肿瘤(pT*N1micMx)”应在“手术后恶性肿瘤化学治疗”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0272",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0273",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0274",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0275",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“肝性脑病”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0276",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0277",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“结肠良性肿瘤”应在“幽门螺杆菌感染,高血压1级”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0278",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0279",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“泌尿道感染”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0280",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断应为“糖尿病伴有酮症酸中毒”，但其未排在首位。不合格，理由：“糖尿病伴有酮症酸中毒”应在其他诊断之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0281",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“具有心脏起搏器”应在初步诊断中排在其他诊断之前。  \n初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0282",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“冠状动脉粥样硬化性心脏病”应在“高血压、糖尿病”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0283",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0284",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0285",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0286",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0287",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0288",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0289",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“(双侧)肾积水”应在“心功能不全”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0290",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0291",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0292",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“*型糖尿病伴血糖控制不佳”应在“高血压*级”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0293",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0294",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断应为“输卵管积脓”，应在“腹痛”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0295",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "主要诊断“（左）乳腺恶性肿瘤”应在“手术后恶性肿瘤化学治疗”之前。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0296",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0297",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0298",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "diagnosis_list",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-RZCB-01-V1",
+        "description": "初步诊断为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0299",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0300",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  }
+]

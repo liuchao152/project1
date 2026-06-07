@@ -1,0 +1,2874 @@
+[
+  {
+    "record_id": "MED_QC_ADM_0001",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0002",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：少尿(主诉周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0003",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：不规则腹痛(主诉2天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0004",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：自觉胎动频繁（主诉1*余天/现病史同段未记录）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0005",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0006",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：尿黄(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0007",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现胰腺囊性占位(*天)（主诉时间段内现病史未记录该表现）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0008",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷(主诉5年/现病史同段未记录加重1天的具体描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0009",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0010",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷(主诉*天/现病史同段未记录具体时长)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0011",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左眼眼球突出(主诉1年/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0012",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：尿频尿急(主诉5年/现病史同段未记录具体时长)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0013",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：多关节肿痛(主诉1年/现病史同段未记录)；咳嗽(主诉9月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0014",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉1周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0015",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0016",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：头胀(主诉5天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0017",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现胎儿偏小一天(主诉1天/现病史未记录同段描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0018",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0019",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右下肢麻木(主诉*月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0020",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左耳廓肿物(主诉1年/现病史同段描述右耳廓囊肿)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0021",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹痛(主诉1月余/现病史未记录同段持续腹痛)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0022",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "现病史为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0023",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0024",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：肝占位(主诉半月/现病史未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0025",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0026",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳嗽气喘(主诉年余/现病史同段未记录加重前具体表现)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0027",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0028",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0029",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷(主诉加重半年/现病史同段未记录加重情况)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0030",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胎动频繁(主诉2天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0031",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳嗽(主诉*月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0032",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0033",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0034",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0035",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0036",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉*小时/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0037",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0038",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0039",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹泻(主诉余天/现病史同段否认)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0040",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0041",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：见红(主诉1天/现病史未记录同段)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0042",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：血压升高(主诉*天/现病史同段未记录具体时长)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0043",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0044",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：气喘(*月/现病史同段未记录具体时长)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0045",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：子宫内膜增厚(主诉七月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0046",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0047",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：头昏头痛(主诉*月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0048",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现胎儿异常(主诉4天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0049",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：不规律下腹胀(主诉5小时/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0050",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：眩晕(主诉1天/现病史同段未记录)；听力下降(主诉1天/同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0051",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：上腹部胀痛（主诉1月/现病史同段仅描述“隐痛不适”，未记录“胀痛”）"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0052",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右甲状腺结节(主诉十余天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0053",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：下腹紧缩感(主诉3天/现病史同段否认)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0054",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现右乳肿块(主诉一周/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0055",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：气喘(主诉*年/现病史同段未记录)；加重半月(主诉/现病史描述症状加重但未明确对应时间段内气喘表现)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0056",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：血尿(主诉*天/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0057",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右肺下叶结节(主诉三周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0058",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0059",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：恶心纳少(主诉1月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0060",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0061",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0062",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0063",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0064",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹痛（主诉8年余/现病史同段未记录）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0065",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0066",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0067",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0068",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：下腹痛(主诉3天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0069",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0070",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0071",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现结肠息肉(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0072",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：阴道流液(主诉1小时/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0073",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0074",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉*月/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0075",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉xx天/现病史1*余天前起病，同段未记录xx天表述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0076",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：目黄(主诉2天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0077",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0078",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0079",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳痰喘(主诉*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0080",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：经期延长伴经量增多(主诉*年/现病史未记录)；发现子宫内膜息肉(主诉*月/现病史未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0081",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0082",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0083",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0084",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：双上肢、双下肢疼痛(主诉月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0085",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉1周/现病史同段未记录具体发热持续时间)；气急(主诉1周/现病史同段未明确起病时间)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0086",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：反复发热(主诉1月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0087",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷痛(主诉*年/现病史三年前始)；加重(主诉*月/现病史三月前始)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0088",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右腕肿痛(主诉*小时/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0089",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0090",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0091",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹痛(主诉半年/现病史同段未记录近期情况)；大便不成形(主诉半年/现病史同段未记录近期情况)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0092",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0093",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0094",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0095",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳嗽(主诉*天/现病史未明确同段记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0096",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0097",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：排尿困难(主诉1余天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0098",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0099",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0100",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咯血(主诉1天余/现病史同段否认)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0101",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0102",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0103",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0104",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉一周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0105",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0106",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现胰腺肿物(主诉1月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0107",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：反复腹泻(主诉年余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0108",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：阴道口脱出物(主诉9月/现病史1月)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0109",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0110",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0111",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：突发胸痛(主诉5小时/现病史同段未记录“突发”描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0112",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右髋部活动受限(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0113",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：排尿困难(主诉月余/现病史未明确同段记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0114",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0115",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0116",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0117",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0118",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0119",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：头痛(主诉5天/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0120",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0121",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0122",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷(主诉再发*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0123",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉*月/现病史仅描述*天前加重，未明确*月起病全过程记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0124",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：见红(主诉1天/现病史未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0125",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0126",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：口干、多饮(主诉1月/现病史同段未记录明确起病时间)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0127",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：便血(主诉*月/现病史明确为两个月前起，近1月加重，与主诉表述不一致)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0128",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：确诊巨球蛋白血症(主诉*月余/现病史未记录同段时间内该诊断)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0129",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0130",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右乳肿块(主诉1年/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0131",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0132",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右眼渐进性视物模糊(主诉1年/现病史同段描述为双眼)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0133",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0134",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：子宫内膜增厚(主诉3天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0135",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳痰(主诉9天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0136",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右颈部肿块(主诉*天/现病史描述左颈部肿块)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0137",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉1月/现病史未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0138",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0139",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉*月/现病史同段否认)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0140",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0141",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左腿疼痛(主诉*小时/现病史同段未记录)；活动受限(主诉*小时/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0142",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右下腹痛(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0143",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：尿检异常(主诉1年/现病史1年前仅记录潜血+)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0144",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0145",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷(主诉1年余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0146",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0147",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：无（主诉与现病史描述一致，均涉及术后1月余取出支架，未见矛盾或缺失）"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0148",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：不规则阴道流血(主诉近一个月/现病史仅提及末次月经日期，无同段明确描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0149",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0150",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0151",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：见红(主诉半天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0152",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷（主诉月余/现病史同段未记录）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0153",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0154",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现右肾肿瘤(主诉1月余/现病史同段未记录该表现)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0155",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：活动后胸闷(主诉两月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0156",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：上腹饱胀不适(主诉*月余/现病史同段未记录具体时长)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0157",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉半月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0158",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉1年/现病史同段未记录持续性描述)；再发胸痛(主诉1月/现病史同段未明确对应时间段记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0159",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹痛(主诉年余/现病史仅提及近期加重)；腹胀(主诉年余/现病史仅近期描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0160",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：呕吐(主诉*天/现病史未记录同段)；腹痛(主诉*天/现病史未记录同段)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0161",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左侧腰痛(主诉*周余/现病史同段未明确记录“左侧”腰痛)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0162",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：排便困难(主诉1月/现病史未明确同段起病)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0163",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉6天/现病史同段未记录畏寒寒战与发热关联)；咳嗽(主诉6天/同段未记录起始时间)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0164",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉1周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0165",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳嗽(主诉1月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0166",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0167",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷痛(主诉1年余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0168",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：上腹痛(主诉再发*天/现病史同段未记录具体再发症状描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0169",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0170",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0171",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：上腹痛(主诉*天/现病史未明确对应时间段记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0172",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：恶心呕吐(主诉*周/现病史同段否认)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0173",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热咳嗽(主诉*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0174",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：晕厥(主诉1周前/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0175",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉*天/现病史未明确对应时间段)；咳嗽咳痰(主诉*天/同段未记录具体时长对应描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0176",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0177",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：不规则阴道流血(主诉4月余/现病史同段未记录完整时长)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0178",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0179",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷气短(主诉6月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0180",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：双下肢水肿(主诉5天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0181",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷气喘(主诉*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0182",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹胀腹痛(主诉5年/现病史同段未记录早期持续性描述)；加重伴排便欠畅(主诉1月/现病史同段未明确对应加重细节)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0183",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0184",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咯血(主诉1年/现病史同段未记录)；咳嗽(主诉1年/同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0185",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胎心监护欠佳(主诉1天/现病史昨日监正常)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0186",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左膝疼痛(主诉1年/现病史同段未记录加重前表现)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0187",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0188",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉1天/现病史同段未记录)；咳痰(主诉1天/同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0189",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：泡沫尿(主诉6年/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0190",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0191",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：尿频、尿急、尿痛(主诉1周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0192",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右肾结石(主诉*周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0193",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：头皮肿物(主诉5年/现病史描述1年前迅速增大，未明确5年全程记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0194",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0195",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉1天/现病史同段未记录)；咳嗽(主诉1天/同段未记录)；咳痰(主诉1天/同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0196",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷气促(主诉*年/现病史*年前开始，未明确同段持续)；加重1*天(主诉/现病史近1*天描述一致，无矛盾)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0197",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉*天/现病史未记录具体时间段)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0198",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉*天/现病史未明确对应时长)；加重胸痛(主诉2天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0199",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉1月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0200",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0201",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现右侧腋窝肿块(主诉*周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0202",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉1周余/现病史同段未明确记载持续1周余)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0203",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0204",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：口干(主诉*月/现病史*月前明确记录)；多饮(主诉*月/现病史*月前明确记录)；多尿(主诉*月/现病史*月前明确记录)。其余表现未在相同时间段内记录，视为未记录。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0205",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：中上腹痛(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0206",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：间断性下腹痛(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0207",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：刺激性咳嗽(主诉*月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0208",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹痛(主诉1月/现病史同段未记录)；恶心(主诉1月/现病史同段否认)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0209",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0210",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0211",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷气急(主诉8月/现病史同段未记录初始8月病程具体表现)；加重(主诉1周/现病史同段未明确对应加重描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0212",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0213",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹痛(主诉近月/现病史未记录近月内腹痛持续情况)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0214",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0215",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0216",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：进食不畅(主诉半月/现病史未明确同段记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0217",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：进食梗阻(主诉1*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0218",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现脐血流异常(主诉半小时/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0219",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：阴道流液(主诉1小时/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0220",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0221",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：经前期出血(主诉一年/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0222",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉半月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0223",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：进食梗阻(主诉半月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0224",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0225",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0226",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：牙龈出血(主诉月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0227",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0228",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0229",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现双侧肾上腺肿物(主诉1天/现病史同段未记录具体“发现”过程)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0230",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷、气促(主诉1周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0231",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷气促(主诉加重1周/现病史同段未记录加重情况)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0232",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉*月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0233",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左侧腰背部疼痛（主诉*周/现病史同段未记录）"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0234",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉1周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0235",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷痛(主诉1年余/现病史同段未记录近期加重情况)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0236",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：多关节肿痛(主诉1*+年/现病史同段未记录完整起病过程)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0237",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：乏力(主诉半月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0238",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0239",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：头晕黑矇(主诉*年/现病史*年前起病，同段记录)；加重(主诉*月/现病史*月前症状加重，同段未记录“加重”描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0240",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0241",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸痛(主诉5天/现病史同段未记录近期发作细节)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0242",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳痰(主诉1周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0243",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0244",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：血PSA升高(主诉*年/现病史*年前已记录，近期再次升高未在主诉明确对应时间段)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0245",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0246",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腰痛(主诉加重1天/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0247",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0248",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：头晕(主诉*月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0249",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：恶心呕吐(主诉*天/现病史同段未记录)；行走、站立(*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0250",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0251",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腰酸(主诉*月/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0252",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：血尿(主诉*天/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0253",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：阴道流血(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0254",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0255",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0256",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0257",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0258",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷胸痛(主诉1年/现病史同段未记录1年前具体表现细节)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0259",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：关节肿痛(主诉1月/现病史同段否认)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0260",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：呕吐(主诉*天/现病史描述为*天前突感口干并呕吐，同段未明确与主诉一致时长)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0261",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷心悸(主诉1年/现病史同段未记录)；加重(主诉1周/现病史同段未明确对应描述)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0262",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：经间期出血(主诉1年/现病史未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0263",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：宫腔积液(主诉两个月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0264",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0265",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右侧腰部疼痛(主诉6天/现病史同段未记录再发6天情况)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0266",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左髋部肿痛(主诉*个月/现病史仅部分时间段描述，同段未完整记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0267",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发现子宫内膜息肉（主诉4月/现病史未记录同段时间发现）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0268",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉5月余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0269",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：确诊右乳恶性肿瘤(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0270",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：右乳肿块(主诉*月余/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0271",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0272",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左肩部疼痛(主诉*月/现病史明确记录*月前出现)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0273",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹胀(主诉1余天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0274",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹胀(主诉*月/现病史仅描述*月前起“腹胀”但未明确与主诉*月时长一致)；加重1周(主诉1周/现病史同段描述“1周前再次出现腹胀”，一致)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0275",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：反应迟钝(主诉*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0276",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：肤目发黄(主诉半月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0277",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0278",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0279",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：双腰酸胀不适(主诉1周/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0280",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：上肢不自主抖动(主诉*天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0281",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0282",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0283",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0284",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：左侧肋部疼痛(主诉1月/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0285",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0286",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：咳嗽咳痰(主诉1周/现病史同段未记录咳痰)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0287",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：胸闷(主诉1周/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0288",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腰痛(主诉*年/现病史三年前起)；腰痛加重(主诉1月/现病史同段未记录)"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0289",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：双肾积水(主诉一周余/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0290",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0291",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：恶心呕吐(主诉一月/现病史同段未记录持续性描述)；加重五天(主诉五天/现病史同段明确加重但未记录具体时间段对应表现)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0292",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：口干、多饮、多尿(主诉15年/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0293",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：不规则阴道流血(主诉1月余/现病史仅描述末次月经量少，未提及一月余出血)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0294",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：发热(主诉5天/现病史记载5-6开始发热，同段未记录5天前发热)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0295",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0296",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0297",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：头晕、行走站立不稳(主诉1天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0298",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：腹胀(主诉1余天/现病史同段未记录)。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0299",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0300",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-01-V1",
+        "description": "临床表现矛盾：绝经后阴道流血（主诉两周余/现病史未明确对应时间段描述）"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2643 @@
+[
+  {
+    "record_id": "MED_QC_ADM_0001",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "血尿缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0002",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "解尿不畅缺少部位、性质、程度；血尿缺少部位、性质、程度；腹痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0003",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“腹痛”缺少部位、性质、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0004",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胎动频繁缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0005",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0006",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0007",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0008",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷症状缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0009",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0010",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0011",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“左眼眼球突出”缺少部位描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0012",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "尿频尿急、进行性排尿不畅症状缺少性质描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0013",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“多关节肿痛”缺少部位、持续时间；“咳嗽”缺少首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0014",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“血压高”缺少部位、“血肌酐高”缺少持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0015",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0016",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右上腹部疼痛缺少程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0017",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0018",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0019",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右下肢麻木缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0020",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0021",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0022",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0023",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0024",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0025",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0026",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽气喘症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0027",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0028",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0029",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0030",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0031",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0032",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷、气喘症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0033",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0034",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0035",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0036",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "突发胸痛缺少持续时间（首次发病时间已写，但未明确症状持续时间）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0037",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳痰喘症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0038",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0039",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0040",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷症状缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0041",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0042",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0043",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0044",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "气喘缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0045",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0046",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0047",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“多关节肿痛”缺少性质；“头昏头痛”缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0048",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0049",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "不规律下腹胀缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0050",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "眩晕缺少部位、性质、程度；听力下降缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0051",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "上腹部胀痛症状缺少性质描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0052",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0053",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "下腹紧缩感缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0054",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右乳肿块缺少程度描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0055",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0056",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "血尿缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0057",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0058",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0059",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "恶心症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0060",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0061",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0062",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0063",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0064",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0065",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0066",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0067",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0068",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "下腹痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0069",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0070",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0071",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0072",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0073",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0074",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "乏力症状缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0075",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0076",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "上腹痛缺少程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0077",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0078",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0079",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳痰喘症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0080",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "经期延长症状缺少部位、性质、持续时间及程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0081",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右上腹胀痛缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0082",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "尿频尿急尿痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0083",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0084",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "双上肢、双下肢疼痛缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0085",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0086",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0087",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷痛缺少部位、持续时间（首次发病时间未明确）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0088",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "肿痛症状缺少部位、性质、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0089",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0090",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0091",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少程度描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0092",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0093",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0094",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0095",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "口干、眼干症状缺少持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0096",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少持续时间（首次发病时间）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0097",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "排尿困难缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0098",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0099",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0100",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0101",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0102",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0103",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左下腹痛缺少程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0104",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热症状缺少部位。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0105",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0106",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0107",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹泻症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0108",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0109",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0110",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0111",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0112",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右髋部疼痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0113",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "排尿困难缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0114",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0115",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0116",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0117",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0118",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0119",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "突发头晕头痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0120",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0121",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0122",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷症状缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0123",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少部位、性质、首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0124",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0125",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0126",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0127",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "便血缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0128",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0129",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左髋、左肘肿痛缺少症状性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0130",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右乳肿块缺少程度描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0131",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0132",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右眼渐进性视物模糊缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0133",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0134",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "未避孕未孕两年余缺少部位、性质、程度；发现子宫内膜增厚三天缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0135",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0136",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右颈部肿块缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0137",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "泡沫尿缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0138",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0139",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "心悸症状缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0140",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0141",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左腿疼痛缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0142",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0143",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0144",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0145",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷症状缺少持续时间（首次发病时间）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0146",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0147",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0148",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "不规则阴道流血缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0149",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0150",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少程度描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0151",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0152",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“胸闷痛”缺少程度描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0153",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "行走不稳缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0154",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0155",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷缺少部位、性质、持续时间、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0156",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0157",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0158",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0159",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“腹痛”缺少首次发病时间；“腹胀”缺少首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0160",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "气短、心悸、乏力缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0161",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左侧腰痛缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0162",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "主要症状：大便带血  \n缺少项：部位、持续时间  \n\n理由：“大便带血”缺少具体部位描述（如直肠/肛门），且未明确首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0163",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽症状缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0164",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0165",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0166",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0167",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷痛缺少首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0168",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "上腹痛缺少程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0169",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右上腹痛缺少程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0170",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "上腹痛缺少持续时间（首次发病时间）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0171",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "上腹痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0172",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“多关节肿痛”缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0173",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热症状缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0174",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "晕厥症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0175",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热症状缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0176",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0177",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "不规则阴道流血缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0178",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0179",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少程度描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0180",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "血糖高缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0181",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度；发热缺少部位、性质、程度；胸闷气喘缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0182",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹胀腹痛缺少性质描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0183",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "黑便缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0184",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质；咳痰缺少部位、性质；咯血缺少首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0185",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0186",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左膝疼痛缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0187",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0188",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0189",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0190",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0191",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0192",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0193",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0194",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0195",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0196",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷气促症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0197",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0198",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0199",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0200",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0201",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0202",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0203",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右下腹痛缺少具体持续时间（首次发病时间）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0204",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0205",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0206",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "下腹痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0207",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "刺激性咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0208",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0209",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0210",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0211",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷气急症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0212",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0213",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0214",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0215",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0216",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "进食不畅症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0217",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0218",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0219",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0220",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0221",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0222",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0223",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "主要症状：进食梗阻  \n缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0224",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0225",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0226",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "瘀点瘀斑缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0227",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0228",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0229",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0230",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷、气促缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0231",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0232",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "乏力症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0233",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0234",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0235",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷痛缺少性质描述。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0236",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“多关节肿痛”缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0237",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "头昏缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0238",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0239",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "头晕、黑矇缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0240",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0241",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0242",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0243",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0244",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0245",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0246",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腰痛症状缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0247",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0248",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "头晕缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0249",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "眩晕缺少部位、性质。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0250",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0251",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "血尿缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0252",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "血尿缺少部位、持续时间"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0253",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹痛缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0254",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0255",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0256",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0257",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0258",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0259",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "关节肿痛缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0260",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "口干缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0261",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷心悸症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0262",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "“经间期出血”缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0263",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0264",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0265",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "绞痛症状缺少部位、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0266",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0267",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0268",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0269",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0270",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "右乳肿块缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0271",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0272",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左肩部疼痛缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0273",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹胀缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0274",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹胀症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0275",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "纳差、乏力、腹胀、反应迟钝为主要症状。  \n- 纳差：无部位、性质、程度，仅持续时间。  \n- 乏力：无部位、性质、程度，仅持续时间。  \n- 腹胀：有部位（腹部）、持续时间，但无性质、程度。  \n- 反应迟钝：无部位、性质、程度、持续时间。  \n\n**输出**：纳差、乏力、反应迟钝缺少部位、性质、程度；腹胀缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0276",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "上腹痛缺少性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0277",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0278",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0279",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "双腰酸胀症状缺少部位、持续时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0280",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "口干、多饮缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0281",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0282",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0283",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0284",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左侧肋部疼痛缺少症状性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0285",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "血尿缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0286",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "咳嗽症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0287",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "胸闷症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0288",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腰痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0289",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0290",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "发热缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0291",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "恶心呕吐缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0292",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "口干、多饮、多尿缺少症状特点描述，如部位、性质、程度及演变情况。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0293",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "不规则阴道流血缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0294",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "下腹痛缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0295",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0296",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左肩疼痛缺少部位、性质、持续时间、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0297",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "头晕症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0298",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "腹胀症状缺少部位、性质、程度。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0299",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "EXAM_RECORD_NORM",
+        "rule_id": "EN-XB-01-V1",
+        "description": "左足疼痛缺少部位、性质、持续时间中的首次发病时间。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0300",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  }
+]

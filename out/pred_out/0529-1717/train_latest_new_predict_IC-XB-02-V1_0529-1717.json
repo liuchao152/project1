@@ -1,0 +1,2139 @@
+[
+  {
+    "record_id": "MED_QC_ADM_0001",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0002",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0003",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0004",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0005",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如低钠血症相关症状）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0006",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0007",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断“慢性胰腺炎”有关的重要的阳性症状（如腹痛、胰酶升高）及典型阴性症状（如无黄疸等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0008",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0009",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状TI-RADS5评分及结节特征。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0010",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0011",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如复视、眼球运动障碍等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0012",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状尿潴留。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0013",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状类风湿性关节炎相关关节表现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0014",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0015",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0016",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0017",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0018",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0019",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0020",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如囊肿性质、是否波动感等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0021",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0022",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0023",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0024",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状HCC相关表现（如AFP升高、肝区占位等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0025",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如典型心绞痛发作特征）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0026",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0027",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如肿块大小、BI-RADS分级等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0028",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0029",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0030",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0031",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状肺炎支原体抗体-IgG升高。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0032",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0033",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0034",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0035",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如乳头内陷、皮肤改变、快速增大等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0036",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0037",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0038",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0039",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0040",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如胸痛性质、放射部位、诱发因素等具体描述不足）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0041",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0042",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状高血压急症相关表现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0043",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0044",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如咳痰、咯血、胸痛等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0045",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如异常子宫出血、内膜病理结果等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0046",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0047",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状类风湿关节炎相关表现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0048",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0049",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0050",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断“右侧突发性聋”有关的重要的阳性症状（如耳鸣、耳闷等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0051",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如肝硬化相关症状或HCC典型表现）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0052",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0053",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0054",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0055",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0056",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0057",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0058",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0059",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0060",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0061",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0062",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0063",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0064",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0065",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0066",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如咳嗽、咯血等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0067",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如咳嗽、咳血等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0068",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0069",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如肾结石相关的典型症状如腰痛、血尿等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0070",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0071",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0072",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0073",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如眼球突出相关眼部症状）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0074",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0075",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0076",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0077",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0078",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0079",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0080",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如异常子宫出血相关表现）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0081",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0082",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如尿频、尿急、尿痛等持续情况及感染相关体征）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0083",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0084",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0085",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断“重症肺炎”有关的重要的阳性症状（如脓臭痰、持续高热等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0086",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断“发热,感染性发热(?)”有关的重要的阳性症状（如持续高热、明确感染灶或病原学依据）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0087",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如胸痛发作频率、持续时间、诱发因素等具体变化）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0088",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0089",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0090",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0091",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0092",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0093",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如吞咽困难、体重下降等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0094",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0095",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0096",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0097",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0098",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0099",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0100",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0101",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如体重减轻、持续性上腹痛等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0102",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0103",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0104",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0105",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状肺炎相关体征（如明确肺部啰音、呼吸困难等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0106",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0107",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0108",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0109",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0110",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0111",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0112",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0113",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0114",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0115",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0116",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0117",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0118",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0119",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如癫痫发作、局灶性神经功能缺损等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0120",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0121",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0122",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0123",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状肺恶性肿瘤相关表现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0124",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0125",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0126",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0127",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0128",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0129",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0130",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0131",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如胃部相关症状：上腹痛、消化不良、体重下降等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0132",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0133",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0134",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如排卵情况、输卵管通畅性等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0135",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0136",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0137",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0138",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0139",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0140",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0141",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0142",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0143",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如水肿、尿量变化等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0144",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0145",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0146",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0147",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0148",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0149",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0150",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0151",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0152",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0153",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0154",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0155",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0156",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如体重减轻、呕血等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0157",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0158",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0159",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断（不完全性肠梗阻）有关的重要的阳性症状（如肠鸣音改变、腹胀体征等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0160",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状高血压相关表现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0161",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0162",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0163",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0164",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0165",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如肿瘤相关症状或持续性咳嗽加重等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0166",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0167",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0168",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0169",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如右上腹压痛、Murphy征等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0170",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0171",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0172",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断“炎性脊椎病”有关的重要的阳性症状（如晨僵、活动后缓解等典型表现）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0173",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状肺炎"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0174",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如心源性晕厥相关表现）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0175",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状坠积性肺炎。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0176",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0177",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0178",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0179",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0180",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如典型糖尿病症状：多饮、多尿、体重下降等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0181",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状重症肺炎相关体征（如咯血、脓痰等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0182",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状“肝火犯胃”相关表现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0183",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0184",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0185",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0186",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如关节肿胀、晨僵等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0187",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0188",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0189",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0190",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0191",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0192",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0193",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0194",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0195",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0196",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如咯血、端坐呼吸等典型二尖瓣狭窄症状）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0197",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0198",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0199",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0200",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0201",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如肿瘤相关局部或全身症状）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0202",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0203",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0204",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0205",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如腹痛性质、持续时间及伴随症状等关键信息描述不足）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0206",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0207",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0208",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0209",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0210",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0211",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0212",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0213",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状阑尾炎典型表现（如转移性右下腹痛、麦氏点压痛等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0214",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0215",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如体重减轻、食欲减退等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0216",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0217",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0218",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0219",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0220",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如术后复发相关症状或肿瘤标志物动态变化）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0221",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如排卵情况、AMH水平等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0222",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0223",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0224",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如咳嗽、咳痰、咯血等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0225",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状及体征。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0226",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0227",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状PSA升高及前列腺MRI异常。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0228",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0229",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0230",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0231",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0232",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0233",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0234",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0235",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0236",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0237",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断“慢性肾脏病”有关的重要的阳性症状（如持续蛋白尿、水肿、肾功能指标变化等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0238",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0239",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0240",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0241",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0242",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断（肺炎）有关的重要的阳性症状（如咯血、脓臭痰等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0243",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0244",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0245",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0246",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0247",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0248",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状头晕及视物模糊等。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0249",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0250",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0251",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0252",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0253",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0254",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0255",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0256",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如体重下降、腹痛等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0257",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0258",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0259",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0260",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0261",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如呼吸困难、端坐呼吸等提示心功能不全加重的症状）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0262",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如排卵障碍、输卵管通而不畅等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0263",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0264",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0265",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0266",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阴性症状（如无关节红肿热等典型感染性关节炎表现）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0267",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0268",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如肿瘤相关进展症状）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0269",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0270",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0271",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0272",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0273",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0274",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0275",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状肝性脑病相关精神神经症状（如定向力障碍、意识模糊等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0276",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0277",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断“结肠良性肿瘤”有关的重要的阳性症状（如息肉大小、形态、数量等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0278",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0279",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0280",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状糖尿病酮症酸中毒。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0281",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0282",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0283",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0284",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状或阴性症状以供鉴别。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0285",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如支架相关血尿、感染症状等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0286",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如咳痰性质、呼吸困难等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0287",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0288",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0289",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如尿量变化、腰痛等）。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0290",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状感染性发热。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0291",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0292",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0293",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0294",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0295",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0296",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0297",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0298",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0299",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0300",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "INFO_COMPLETENESS",
+        "rule_id": "IC-XB-02-V1",
+        "description": "现病史未记录与本次入院主诊断有关的重要的阳性症状（如腹胀、肛门坠胀等可能与卵巢肿瘤相关的症状）。"
+      }
+    ]
+  }
+]

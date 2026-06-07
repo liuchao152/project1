@@ -1,0 +1,2181 @@
+[
+  {
+    "record_id": "MED_QC_ADM_0001",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0002",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“少尿*周”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0003",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“不规则腹痛两天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0004",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“自觉胎动频繁1*余天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0005",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的生长发育迟缓*年未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0006",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0007",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0008",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0009",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0010",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0011",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0012",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0013",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“多关节肿痛1*年”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0014",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0015",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0016",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0017",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“发现胎儿偏小一天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0018",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“前次剖宫产术后两年”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0019",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的右下肢麻木*月未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0020",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的左耳廓肿物未在现病史中体现，现病史描述为“右耳廓囊肿”，存在不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0021",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0022",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "现病史为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0023",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0024",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“肝占位”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0025",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0026",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0027",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“左乳癌术后1月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0028",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0029",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0030",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“胎动频繁两天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0031",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0032",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0033",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0034",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0035",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0036",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0037",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0038",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的肝癌未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0039",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的腹泻*余天未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0040",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0041",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“见红一天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0042",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0043",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“确诊左肺恶性肿瘤1*个月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0044",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0045",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的子宫内膜增厚未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0046",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“再次类克治疗”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0047",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的头昏头痛*月未在现病史开头几句概述中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0048",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“发现胎儿异常四天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0049",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0050",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0051",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0052",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0053",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0054",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0055",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0056",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0057",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的右肺下叶结节未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0058",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“确诊右肺鳞癌*月余”未在现病史中明确体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0059",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0060",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0061",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0062",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“停经6*天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0063",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0064",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0065",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0066",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0067",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0068",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“间断下腹痛三天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0069",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0070",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0071",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0072",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0073",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0074",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0075",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0076",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0077",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0078",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的剖宫产术后六年未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0079",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0080",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“经期延长伴经量增多*年”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0081",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0082",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0083",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0084",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“双上肢、双下肢疼痛*月余”在现病史中体现为“双臂、腰背部、双侧大腿疼痛”，但未明确提及“双下肢疼痛”，存在不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0085",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0086",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“反复发热1月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0087",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0088",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0089",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0090",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0091",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0092",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0093",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“食管癌术后二月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0094",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0095",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0096",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0097",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0098",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“确诊左肺癌五年余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0099",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“诊断肺癌5年余”未在现病史中体现明确的时间对应。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0100",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0101",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的胃溃疡未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0102",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0103",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0104",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0105",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0106",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“胰腺肿物”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0107",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0108",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“自觉阴道口脱出物9月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0109",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0110",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0111",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0112",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0113",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的排尿困难*月余未在现病史中明确体现时间段对应。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0114",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0115",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0116",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0117",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“维持性腹透*年余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0118",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“停经8*天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0119",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0120",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0121",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0122",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“再发*天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0123",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0124",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“见红一天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0125",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0126",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的口干、多饮1月未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0127",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0128",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“确诊巨球蛋白血症*月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0129",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0130",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0131",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“发现胃癌*月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0132",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“右眼”未在现病史开头几句概述中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0133",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0134",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0135",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0136",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的右颈部肿块未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0137",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“乏力1月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0138",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0139",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的胸痛未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0140",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0141",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0142",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0143",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0144",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0145",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“胸闷”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0146",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0147",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0148",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“不规则阴道流血近一个月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0149",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0150",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0151",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“见红半天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0152",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0153",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0154",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0155",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0156",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0157",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0158",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0159",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的腹痛腹胀未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0160",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的呕吐、腹痛*天未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0161",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0162",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0163",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0164",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0165",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0166",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0167",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0168",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0169",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0170",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的发热1天未在现病史开头几句概述中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0171",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0172",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“多关节肿痛*年”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0173",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0174",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0175",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0176",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0177",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“不规则阴道流血四月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0178",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0179",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0180",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的双下肢水肿未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0181",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0182",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0183",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0184",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“再发一周”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0185",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0186",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0187",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0188",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0189",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0190",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0191",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的尿频、尿急、尿痛未在现病史开头几句概述中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0192",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0193",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0194",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0195",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0196",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0197",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的发热未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0198",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0199",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“胸痛1月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0200",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0201",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的右侧腋窝肿块*周未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0202",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0203",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0204",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0205",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0206",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0207",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0208",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0209",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0210",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0211",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0212",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“确诊急性淋巴细胞白血病11月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0213",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0214",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0215",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“胃粘膜病变ESD术后1周”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0216",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“再发进食不畅半月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0217",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“再发进食梗阻1*天”未在现病史中明确体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0218",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“发现脐血流异常半小时”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0219",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0220",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“肝内胆管癌术后*月余”未在现病史中明确体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0221",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0222",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“乏力半月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0223",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“进食梗阻半月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0224",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“肺占位性病变*年”未在现病史中明确体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0225",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0226",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0227",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0228",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“胰腺癌术后*月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0229",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0230",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0231",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0232",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的乏力*月未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0233",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0234",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0235",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0236",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0237",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的乏力半月未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0238",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0239",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0240",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0241",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0242",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0243",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的发热*天未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0244",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0245",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0246",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“腰痛”未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0247",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0248",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0249",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0250",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0251",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0252",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0253",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“腹痛伴阴道流血一天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0254",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0255",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“纵隔肿物1年”未在现病史中体现具体时间段，无法确认是否对应“*周前复查”，时间不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0256",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0257",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“确诊弥漫大B淋巴瘤1年”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0258",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0259",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的关节肿痛未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0260",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的口干、呕吐未在现病史开头几句概述中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0261",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“加重*周”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0262",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“经间期出血1*年”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0263",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0264",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0265",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“再发*小时”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0266",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0267",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“发现子宫内膜息肉四月”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0268",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“再次发热5月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0269",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“确诊右乳恶性肿瘤1天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0270",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0271",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“右乳癌术后1月余”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0272",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的左肩部疼痛*月未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0273",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0274",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0275",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0276",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0277",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0278",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0279",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的双腰酸胀不适1周未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0280",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“上肢不自主抖动*天”未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0281",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0282",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0283",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0284",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的左侧肋部疼痛1月未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0285",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0286",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0287",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的胸闷1周未在现病史中体现"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0288",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0289",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的双肾积水未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0290",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0291",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0292",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0293",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0294",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的发热五天未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0295",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0296",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0297",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的头晕、行走站立不稳未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0298",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的腹胀未在现病史中体现。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0299",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0300",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-03-V1",
+        "description": "主诉中的“绝经后阴道流血两周余”未在现病史中体现。"
+      }
+    ]
+  }
+]

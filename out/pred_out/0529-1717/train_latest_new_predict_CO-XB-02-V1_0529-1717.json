@@ -1,0 +1,2139 @@
+[
+  {
+    "record_id": "MED_QC_ADM_0001",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行输尿管镜钬激光碎石术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0002",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有胸腔闭式引流术史，而既往史中否认其他手术史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0003",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0004",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0005",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0006",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0007",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0008",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0009",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0010",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0011",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0012",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0013",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0014",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有腰椎间盘手术病史，而既往史否定其他手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0015",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0016",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有胆囊炎反复发作病史，而既往史中仅描述“保守治疗后好转”，未明确肯定胆囊炎反复发作，存在不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0017",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0018",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0019",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有多次手术（如微波消融术、放射性粒子植入术），而既往史否认手术史。不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0020",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史描述左耳肿物，既往史否认手术史，但肿物可能为囊肿需手术治疗，本次就诊目的为治疗该肿物，故不应否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0021",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0022",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史为空"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0023",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0024",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0025",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0026",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0027",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0028",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0029",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0030",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0031",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0032",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有陈旧性心肌梗死，而既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0033",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0034",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0035",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0036",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行急诊PCI术，而既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0037",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0038",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有“左股骨骨折手术”而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0039",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0040",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0041",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0042",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有“2型糖尿病”而既往史否定其他慢性病史，存在矛盾。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0043",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0044",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中无相关描述，既往史中手术史肯定头部外伤手术，而外伤史否认外伤史，前后矛盾。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0045",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0046",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行“部分小肠切除术、回肠造口术”、“造口回纳术+黏连松解术”，而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0047",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0048",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0049",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0050",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0051",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0052",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0053",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者两次剖宫产术后八年，而既往史中仅记录两次剖宫产史，未提及第三次手术（宫腔镜息肉摘除术），前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0054",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者为“为进一步手术治疗”而既往史否认外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0055",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0056",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行输尿管镜检查+内支架置入术，既往史否认手术史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0057",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0058",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行胸腔镜下右下肺癌根治术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0059",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0060",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0061",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0062",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0063",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行左侧胸腔闭式引流术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0064",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行肠镜检查及活检，而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0065",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行息肉切除术，既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0066",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0067",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0068",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0069",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0070",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有B超引导下胆囊及肝脓肿穿刺引流术，而既往史否认手术及外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0071",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0072",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0073",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0074",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0075",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0076",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0077",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0078",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0079",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0080",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0081",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0082",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者“*天前跌倒后出现右侧胸壁及右足部疼痛有淤青”，而既往史否认外伤史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0083",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0084",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0085",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者1周前受外伤（受凉后发病，症状由外伤诱发），而既往史否认外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0086",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0087",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0088",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有外伤史而既往史否定外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0089",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0090",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0091",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0092",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者15年前鼻部受外伤，而既往史否定外伤史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0093",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0094",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0095",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0096",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0097",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0098",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行“左肺上叶切除术”，而既往史否认手术史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0099",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0100",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0101",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0102",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0103",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有结肠息肉内镜下治疗，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0104",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0105",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0106",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0107",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行肛瘘、肛周脓肿手术治疗，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0108",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0109",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0110",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有胸部外伤，而既往史否定外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0111",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行急诊PCI而既往史否定手术史"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0112",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者因摔伤致右髋部受伤而既往史否定外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0113",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行“经闭孔阴道前壁无张力网片修补术”，而既往史中否认手术史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0114",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有左肱骨骨折手术史，而既往史否定手术及外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0115",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0116",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有胸部外伤，而既往史否定外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0117",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0118",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0119",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0120",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0121",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0122",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0123",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0124",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0125",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有髋关节疼痛，而既往史否认外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0126",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有肺栓塞、腔隙性脑梗死、肾上腺占位等病史，而既往史未明确肯定这些内容，存在不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0127",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0128",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行右肺肿块穿刺活检术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0129",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者左髋、左肘部受伤，而既往史否认外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0130",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者需手术治疗乳腺结节，而既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0131",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0132",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0133",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0134",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0135",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0136",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0137",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0138",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者近期有多次肠梗阻病史，而既往史中未提及肠梗阻相关病史，前后记录不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0139",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0140",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0141",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有外伤史而既往史否定外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0142",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史提示阑尾炎，既往史否认手术史，但未明确否认阑尾切除术，存在不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0143",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0144",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行切开骨折内固定术，而既往史否定手术史和外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0145",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0146",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0147",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0148",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行分段诊刮术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0149",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0150",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0151",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0152",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0153",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0154",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0155",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0156",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有“右股骨近段术后改变”而既往史否定外伤史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0157",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0158",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有头孢过敏史，而既往史中否认食物过敏史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0159",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行胰十二指肠切除术，而既往史否定其他手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0160",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0161",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0162",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0163",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0164",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0165",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0166",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有胆囊切除术史，而既往史否认手术及外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0167",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0168",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0169",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0170",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0171",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中未提及胃癌及全胃切除手术史，而既往史肯定有此手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0172",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0173",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行右颈内静脉长期血透导管植入术及左前臂动静脉造瘘术，而既往史否认手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0174",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0175",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0176",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有高血压病史，而既往史中仅提及“有高血压病史”，无矛盾；但现病史提到“感染丙肝”，而既往史中未明确肯定丙肝感染史，存在不一致。\n\n**不合格理由：** 既往史否定丙肝感染，现病史肯定感染丙肝。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0177",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有剖宫术手术史，而既往史中否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0178",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0179",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0180",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0181",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0182",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有左足骨折病史，而既往史中否认外伤史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0183",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0184",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0185",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0186",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0187",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0188",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0189",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行起搏器安装术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0190",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0191",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0192",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0193",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者5年前行冷冻治疗，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0194",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0195",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0196",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0197",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0198",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0199",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行冠脉造影术+支架植入术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0200",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0201",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0202",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0203",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0204",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0205",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0206",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0207",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0208",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0209",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0210",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0211",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有脑梗塞后遗症，既往史否定脑梗死史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0212",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0213",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有晕厥史，而既往史中否认外伤史，但本次晕厥由外伤引起，因此不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0214",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行右乳单纯切除术，而既往史中否认其他手术史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0215",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行胃粘膜病变ESD手术，而既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0216",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0217",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行食管狭窄内镜下腹膜支架置入术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0218",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0219",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0220",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有胆总管ERBD术后，而既往史未提及该手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0221",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0222",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0223",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0224",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0225",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0226",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有输血史，而既往史中否认输血史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0227",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0228",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行根治性胰十二指肠切除术等手术，而既往史否定手术史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0229",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0230",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0231",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者拒绝冠脉介入治疗（手术），既往史否认手术史，不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0232",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0233",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0234",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0235",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0236",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有脑梗死病史，而既往史中否认脑梗死。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0237",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者*周前出现上唇肿胀麻木，咽喉水肿，予以地塞米松、头孢应用后症状好转，而既往史否定药物、食物过敏史。不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0238",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0239",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0240",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0241",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行冠脉造影，而既往史否定手术史。不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0242",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有“胆囊切除”，而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0243",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0244",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行前列腺活检术，既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0245",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0246",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者1天前扭伤腰部，而既往史否认外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0247",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0248",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0249",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0250",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0251",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0252",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有手术史（右软性输尿管镜下钬激光碎石术），而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0253",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者可能因异位妊娠需手术，而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0254",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行左前臂动静脉内瘘成形术，而既往史否认其他手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0255",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0256",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0257",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行胃镜检查及多次化疗，而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0258",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有房间隔缺损修补术、二尖瓣、三尖瓣修补术，而既往史仅提到房缺封堵术和二尖瓣、三尖瓣成形术，手术名称不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0259",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0260",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有“车祸后腰椎骨折并行脊柱手术”，而既往史中否认手术史，前后记录不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0261",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0262",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0263",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0264",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0265",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行右侧肾盂穿刺引流术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0266",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0267",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0268",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者曾行肺穿刺活检，而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0269",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0270",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0271",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0272",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有右肺术后改变，而既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0273",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有肝硬化、脾大、腹腔积液等病史，而既往史否定相关疾病史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0274",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有肝硬化、脾大、腹腔积液等病史，而既往史中否认相关疾病史，存在不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0275",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0276",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0277",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行肠镜下息肉切除术，既往史否认手术史，前后不一致。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0278",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0279",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有阑尾切除术，既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0280",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0281",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者1年前行心脏起搏器植入，而既往史中未提及该手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0282",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0283",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0284",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行右肺切除、肋骨微波消融术，而既往史否定手术史，不合格。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0285",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行输尿管镜钬激光碎石术，而既往史否定手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0286",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0287",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者行PCI术，既往史否认手术史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0288",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0289",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0290",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0291",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0292",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有左下肢外侧麻木、泡沫尿等糖尿病周围神经病变和慢性肾功能不全表现，而既往史中明确有“慢性肾功能不全”病史，但未提及糖尿病周围神经病变，属于前后记录不一致。  \n\n**不合格理由：现病史中描述患者糖尿病周围神经病变而既往史未肯定该病史**"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0293",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0294",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0295",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0296",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有外伤史而既往史否定外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0297",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0298",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  },
+  {
+    "record_id": "MED_QC_ADM_0299",
+    "record_type": "ADM_NOTE",
+    "problems": [
+      {
+        "field": "history_present",
+        "issue_type": "CONSISTENCY",
+        "rule_id": "CO-XB-02-V1",
+        "description": "现病史中描述患者有外伤史而既往史否定外伤史。"
+      }
+    ]
+  },
+  {
+    "record_id": "MED_QC_ADM_0300",
+    "record_type": "ADM_NOTE",
+    "problems": []
+  }
+]
